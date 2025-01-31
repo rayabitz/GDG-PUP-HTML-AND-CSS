@@ -61,6 +61,7 @@ h1 {
 
 .flexboxContainer > div img {
   width: 80%;
+  max-height: 90%;
 }
 
 .flexboxContainer > div p {
